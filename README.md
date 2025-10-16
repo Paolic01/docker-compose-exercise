@@ -1,1 +1,3 @@
 ok
+dare
+avere
