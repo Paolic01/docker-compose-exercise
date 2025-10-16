@@ -1,0 +1,7 @@
+version: '3.8'
+services:
+  flaskapp:
+    build: .
+    ports:
+      - "5499:5499"
+    container_name: flask-container
